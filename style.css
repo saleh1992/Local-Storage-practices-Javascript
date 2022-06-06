@@ -1,0 +1,30 @@
+body {
+  font-family: 'Cairo', sans-serif;
+  font-family: 'Jost', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  background: #2b2b2b0f;
+}
+
+label {
+  font-size: 20px;
+  font-weight: 900;
+}
+
+div {
+  text-align: center;
+  margin: 20px;
+}
+
+#result {
+  width: 596px;
+  max-width: 90%;
+  margin: auto;
+  border: 1px solid #80808030;
+  line-height: 2.6;
+  padding: 15px;
+  border-radius: 6px;
+  background: #ffffff6b;
+  font-family: 'Jost', sans-serif;
+  font-size: 17px;
+  color: red;
+}
